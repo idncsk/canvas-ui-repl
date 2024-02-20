@@ -1,4 +1,5 @@
-# canvas-ui-node
-Canvas UI (nodejs cli/repl)
+# canvas-ui-repl
+
+nodejs based repl cli client for canvas
 
 **Not for use**
